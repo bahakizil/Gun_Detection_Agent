@@ -17,11 +17,11 @@ pip install -r requirements.txt
 ### 2️⃣ Set up the project:
 ```bash
 git clone https://github.com/your-repository/langchain-yolo-agent.git
-cd langchain-yolo-agent
+
 ```
 ### 3️⃣ Run the detection script:
 ```bash
-python langchain_yolo_agent.py
+python app.py
 ```
 
 ## 🔧 Usage
