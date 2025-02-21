@@ -1,0 +1,6 @@
+langchain
+openai
+ultralytics
+opencv-python
+opencv-contrib-python
+gradio
